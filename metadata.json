@@ -1,0 +1,6 @@
+{
+  "name": "ÉPURE — Haute Joaillerie Minimaliste",
+  "description": "Boutique en ligne de haute joaillerie épurée. Lignes architecturales, or 18 carats et diamants éthiques dans un écrin de quiet luxury.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
